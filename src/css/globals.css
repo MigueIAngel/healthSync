@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    @apply bg-white h-full overflow-x-hidden;
+}
+
+html {
+    @apply h-full;
+}
